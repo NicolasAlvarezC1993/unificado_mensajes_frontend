@@ -1,0 +1,674 @@
+[
+  {
+    "msgCat": "Agenda",
+    "msgName": "Información",
+    "msgText": {
+      "EN": {
+        "shortText": "A presionado!",
+        "longText": "Markdown Text"
+      },
+      "ZH": {
+        "shortText": "系统错误1发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Agenda",
+    "msgName": "Guardar",
+    "msgText": {
+      "EN": {
+        "shortText": "Se ha guardado correctamente la información %s!",
+        "longText": "Markdown Text"
+      },
+      "ZH": {
+        "shortText": "系统错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Agenda",
+    "msgName": "Cancelar",
+    "msgText": {
+      "EN": {
+        "shortText": "Se cancelo el evento reciente %s!",
+        "longText": "Markdown Text"
+      },
+      "ZH": {
+        "shortText": "系统错误3发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Agenda",
+    "msgName": "Advertencia",
+    "msgText": {
+      "EN": {
+        "shortText": "Esta seguro que desea continuar %s!",
+        "longText": "Markdown Text %s1 and %s2 and %s2 and %s1"
+      },
+      "ZH": {
+        "shortText": "应用错误1发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Agenda",
+    "msgName": "Excepcion",
+    "msgText": {
+      "EN": {
+        "shortText": "Ha ocurrido una error en el servidor",
+        "longText": "Markdown Text"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "SentenciaFirmada",
+    "msgText": {
+      "EN": {
+        "shortText": "Sentencia firmada",
+        "longText": "La causa tiene sentencia firmada, sólo se pueden agregar abogados"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "TramiteNoEncontrado",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se ha encontrado ningún trámite para este cuaderno"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "NoEncontradoRegistroCivil",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se encontraron datos en Registro Civil, se buscará en la base de datos del PJUD."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "NoEncontradoRegistroCivilCorto",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se encontraron datos en Registro Civil"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "DatosObtenidosRegistroCivil",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Datos obtenidos desde Registro Civil."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorRegistroCivil",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Error al consultar el Web Service de Registro Civil, se buscará en la base de datos del PJUD."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorRegistroCivilCorto",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Error al consultar el Web Service de Registro Civil."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "Rut00",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Rut 00.000.000-0 no se puede validar en el registro civil"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "NoEncontradoIngresarManual",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se encontró rut en base de datos del PJUD, puede ingresar los datos manualmente."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "FiscalNoEncontrado",
+    "msgText": {
+      "EN": {
+        "shortText": "Fiscal no encontrado",
+        "longText": "No se encontraron datos en la base de datos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "DefensorNoEncontrado",
+    "msgText": {
+      "EN": {
+        "shortText": "Defensor no encontrado",
+        "longText": "No se encontraron datos en la base de datos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ColaboradorEncontrado",
+    "msgText": {
+      "EN": {
+        "shortText": "Colaborador encontrado",
+        "longText": "Datos obtenidos desde la base de datos de colaboradores."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ColaboradorNoEncontrado",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se encontró colaborador en la base de datos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "SeleccioneCompetencia",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Seleccione una competencia"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "LitiganteActualizado",
+    "msgText": {
+      "EN": {
+        "shortText": "Litigante actualizado",
+        "longText": "Litigante actualizado correctamente"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorActualizarLitigante",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error al actualizar el litigante"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "LitiganteGuardado",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Litigante guardado con éxito"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorGuardarLitigante",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error al guardar el litigante"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "CamposRequeridos",
+    "msgText": {
+      "EN": {
+        "shortText": "Campos requeridos",
+        "longText": "Complete todos los campos requeridos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "AbogadoSuspendido",
+    "msgText": {
+      "EN": {
+        "shortText": "Abogado suspendido",
+        "longText": "El abogado se encuentra suspendido"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "AbogadoValido",
+    "msgText": {
+      "EN": {
+        "shortText": "Abogado válido",
+        "longText": "Abogado válido y activo."
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorConexion",
+    "msgText": {
+      "EN": {
+        "shortText": "Error en la conexión",
+        "longText": "Compruebe su conexión a internet"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "RutNoCorrespondeAbogado",
+    "msgText": {
+      "EN": {
+        "shortText": "Abogado no válido",
+        "longText": "El rut ingresado no corresponde a un abogado"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "RelacionRechazada",
+    "msgText": {
+      "EN": {
+        "shortText": "Relacion rechazada",
+        "longText": "El abogado {0} ya tiene asignado al litigante {1}"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "AbogadoIncompatible",
+    "msgText": {
+      "EN": {
+        "shortText": "Relacion rechazada",
+        "longText": "No es posible realizar relación por incompatibilidad"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "SeleccionAbogadoIncompleta",
+    "msgText": {
+      "EN": {
+        "shortText": "Selección incompleta",
+        "longText": "Se deben seleccionar abogados y/o apoderados"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "SeleccionLitiganteIncompleta",
+    "msgText": {
+      "EN": {
+        "shortText": "Selección incompleta",
+        "longText": "Se deben seleccionar litigantes"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "NoHayParaBorrar",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se encontró el objeto para borrar"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "RelacionEliminada",
+    "msgText": {
+      "EN": {
+        "shortText": "Relación eliminada",
+        "longText": "Relación eliminada correctamente"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorEliminaRelacionAbogado",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error en el proceso de eliminar la relación del abogado: {0} y litigante: {1}"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorEliminaRelacion",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error en el proceso de eliminar relación en base de datos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorListarRelaciones",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error al listar las relaciones"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorGuardarRelacionAbogado",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "La relación del abogado:  {0} con el litigante: {1} no se guardó, intente nuevamente"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorGuardarRelacion",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error al guardar relaciones"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "IngresarContactoMinimo",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Debe ingresar al menos un tipo de contacto para agregar"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "LimiteRepresentanteLegal",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "No se pueden ingresar más de {0} representantes legales"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "GuardadoOkGenerico",
+    "msgText": {
+      "EN": {
+        "shortText": "Datos guardados",
+        "longText": "Datos guardados correctamente"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ErrorGuardarGenerico",
+    "msgText": {
+      "EN": {
+        "shortText": "Error",
+        "longText": "Ocurrió un error al guardar los datos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "RepresentanteLegalEliminado",
+    "msgText": {
+      "EN": {
+        "shortText": "Datos eliminados",
+        "longText": "Representante legal eliminado correctamente"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "ParteNoEncontrado",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Datos de parte no encontrados"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "PersonaNoEncontrada",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Datos de persona no encontrados"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "NotificacionesPendientesDirecciones",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Tiene notificaciones pendientes, no puede modificar direcciones"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  },
+  {
+    "msgCat": "Ingresos",
+    "msgName": "NotificacionesPendientesContactos",
+    "msgText": {
+      "EN": {
+        "shortText": "Atención",
+        "longText": "Tiene notificaciones pendientes, no puede modificar contactos"
+      },
+      "ZH": {
+        "shortText": "应用错误2发生在 %s!",
+        "longText": "长文本"
+      }
+    }
+  }
+]
